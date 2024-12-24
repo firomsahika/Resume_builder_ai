@@ -11,7 +11,7 @@ const Navbar = () => {
     }
 
     return (
-        <div className="fixed   bg-[#f4f4f9] h-20 w-full px-20 flex items-center justify-between">
+        <div className="fixed z-10  bg-[#f4f4f9] h-20 w-full px-20 flex items-center justify-between">
 
             <div className="text-xl font-bold text-gray-800">
                 <p>Talent.ai</p>
